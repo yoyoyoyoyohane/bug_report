@@ -1,8 +1,4 @@
-# Online DJ Management System v1.0 has SQL injection
-
 BUG_Author:yohane
-
-Website source code address: https://www.sourcecodester.com/php/15150/online-dj-management-system-phpoop-free-source-code.html
 
 Vulnerability File: /odjms/admin/inquiries/view_details.php
 
