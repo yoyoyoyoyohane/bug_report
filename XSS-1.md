@@ -1,8 +1,4 @@
-# Online DJ Management System v1.0 has stored cross-site scripting
-
 BUG_Author:yohane
-
-Website source code address: https://www.sourcecodester.com/php/15150/online-dj-management-system-phpoop-free-source-code.html
 
 Vulnerability url: /odjms/classes/Master.php?f=save_event
 
